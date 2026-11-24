@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../elan-store"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
